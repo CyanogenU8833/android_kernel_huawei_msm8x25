@@ -80,7 +80,7 @@ DEVICE_ATTR(_pre##_##_name,_mode,_pre##_##_name##_show,_pre##_##_name##_store)
 #define SYN_I2C_RETRY_TIMES 10
 
 /* upgrade fw file path */
-#define TP_FW_COB_FILE_NAME  "/tp/1294018.img"
+#define TP_FW_COB_FILE_NAME  "/tp/1191601.img"
 #define TP_FW_FILE_NAME "/sdcard/update/synaptics.img"
 /*syn_version init */
 struct syn_version_config syn_version = 

@@ -13,7 +13,7 @@
 
 
 #define SYN_CONFIG_SIZE 32 * 16
-#define CURRENT_PR_VERSION  1294018
+#define CURRENT_PR_VERSION  1191601
 #define TP_ID0  127
 #define TP_ID1  128
 
